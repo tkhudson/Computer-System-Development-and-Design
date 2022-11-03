@@ -1,0 +1,14 @@
+C:\Users\fjh15\Documents\Exam1 4322\Prime Number 3 to 300\Prime Number 3 to 300\bin\Debug\Prime Number 3 to 300.exe.config
+C:\Users\fjh15\Documents\Exam1 4322\Prime Number 3 to 300\Prime Number 3 to 300\bin\Debug\Prime Number 3 to 300.exe
+C:\Users\fjh15\Documents\Exam1 4322\Prime Number 3 to 300\Prime Number 3 to 300\bin\Debug\Prime Number 3 to 300.pdb
+C:\Users\fjh15\Documents\Exam1 4322\Prime Number 3 to 300\Prime Number 3 to 300\obj\Debug\Prime Number 3 to 300.csprojAssemblyReference.cache
+C:\Users\fjh15\Documents\Exam1 4322\Prime Number 3 to 300\Prime Number 3 to 300\obj\Debug\Prime Number 3 to 300.csproj.CoreCompileInputs.cache
+C:\Users\fjh15\Documents\Exam1 4322\Prime Number 3 to 300\Prime Number 3 to 300\obj\Debug\Prime Number 3 to 300.exe
+C:\Users\fjh15\Documents\Exam1 4322\Prime Number 3 to 300\Prime Number 3 to 300\obj\Debug\Prime Number 3 to 300.pdb
+E:\Prime Number 3 to 300\Prime Number 3 to 300\bin\Debug\Prime Number 3 to 300.exe.config
+E:\Prime Number 3 to 300\Prime Number 3 to 300\bin\Debug\Prime Number 3 to 300.exe
+E:\Prime Number 3 to 300\Prime Number 3 to 300\bin\Debug\Prime Number 3 to 300.pdb
+E:\Prime Number 3 to 300\Prime Number 3 to 300\obj\Debug\Prime Number 3 to 300.csprojAssemblyReference.cache
+E:\Prime Number 3 to 300\Prime Number 3 to 300\obj\Debug\Prime Number 3 to 300.csproj.CoreCompileInputs.cache
+E:\Prime Number 3 to 300\Prime Number 3 to 300\obj\Debug\Prime Number 3 to 300.exe
+E:\Prime Number 3 to 300\Prime Number 3 to 300\obj\Debug\Prime Number 3 to 300.pdb

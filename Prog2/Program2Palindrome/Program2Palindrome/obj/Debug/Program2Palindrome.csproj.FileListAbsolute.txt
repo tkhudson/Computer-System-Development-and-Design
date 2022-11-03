@@ -1,0 +1,10 @@
+E:\Prog2\Program2Palindrome\Program2Palindrome\bin\Debug\Program2Palindrome.exe.config
+E:\Prog2\Program2Palindrome\Program2Palindrome\bin\Debug\Program2Palindrome.exe
+E:\Prog2\Program2Palindrome\Program2Palindrome\bin\Debug\Program2Palindrome.pdb
+E:\Prog2\Program2Palindrome\Program2Palindrome\obj\Debug\Program2Palindrome.csprojAssemblyReference.cache
+E:\Prog2\Program2Palindrome\Program2Palindrome\obj\Debug\Program2Palindrome.Form1.resources
+E:\Prog2\Program2Palindrome\Program2Palindrome\obj\Debug\Program2Palindrome.Properties.Resources.resources
+E:\Prog2\Program2Palindrome\Program2Palindrome\obj\Debug\Program2Palindrome.csproj.GenerateResource.cache
+E:\Prog2\Program2Palindrome\Program2Palindrome\obj\Debug\Program2Palindrome.csproj.CoreCompileInputs.cache
+E:\Prog2\Program2Palindrome\Program2Palindrome\obj\Debug\Program2Palindrome.exe
+E:\Prog2\Program2Palindrome\Program2Palindrome\obj\Debug\Program2Palindrome.pdb

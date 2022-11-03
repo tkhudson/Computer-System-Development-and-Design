@@ -1,0 +1,10 @@
+C:\Users\developer\source\repos\FactorRecursive\FactorRecursive\bin\Debug\FactorRecursive.exe.config
+C:\Users\developer\source\repos\FactorRecursive\FactorRecursive\bin\Debug\FactorRecursive.exe
+C:\Users\developer\source\repos\FactorRecursive\FactorRecursive\bin\Debug\FactorRecursive.pdb
+C:\Users\developer\source\repos\FactorRecursive\FactorRecursive\obj\Debug\FactorRecursive.csprojAssemblyReference.cache
+C:\Users\developer\source\repos\FactorRecursive\FactorRecursive\obj\Debug\FactorRecursive.Form1.resources
+C:\Users\developer\source\repos\FactorRecursive\FactorRecursive\obj\Debug\FactorRecursive.Properties.Resources.resources
+C:\Users\developer\source\repos\FactorRecursive\FactorRecursive\obj\Debug\FactorRecursive.csproj.GenerateResource.cache
+C:\Users\developer\source\repos\FactorRecursive\FactorRecursive\obj\Debug\FactorRecursive.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\FactorRecursive\FactorRecursive\obj\Debug\FactorRecursive.exe
+C:\Users\developer\source\repos\FactorRecursive\FactorRecursive\obj\Debug\FactorRecursive.pdb

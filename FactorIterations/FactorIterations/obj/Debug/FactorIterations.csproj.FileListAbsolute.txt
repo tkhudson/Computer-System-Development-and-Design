@@ -1,0 +1,10 @@
+C:\Users\developer\source\repos\FactorIterations\FactorIterations\bin\Debug\FactorIterations.exe.config
+C:\Users\developer\source\repos\FactorIterations\FactorIterations\bin\Debug\FactorIterations.exe
+C:\Users\developer\source\repos\FactorIterations\FactorIterations\bin\Debug\FactorIterations.pdb
+C:\Users\developer\source\repos\FactorIterations\FactorIterations\obj\Debug\FactorIterations.csprojAssemblyReference.cache
+C:\Users\developer\source\repos\FactorIterations\FactorIterations\obj\Debug\FactorIterations.Form1.resources
+C:\Users\developer\source\repos\FactorIterations\FactorIterations\obj\Debug\FactorIterations.Properties.Resources.resources
+C:\Users\developer\source\repos\FactorIterations\FactorIterations\obj\Debug\FactorIterations.csproj.GenerateResource.cache
+C:\Users\developer\source\repos\FactorIterations\FactorIterations\obj\Debug\FactorIterations.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\FactorIterations\FactorIterations\obj\Debug\FactorIterations.exe
+C:\Users\developer\source\repos\FactorIterations\FactorIterations\obj\Debug\FactorIterations.pdb
