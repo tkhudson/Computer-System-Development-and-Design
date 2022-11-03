@@ -9,4 +9,4 @@ Projects include:
 
 All projects developed within Visual Studio with class team.
 
-Projects developed with Python and C#.
+Projects developed with C#.
